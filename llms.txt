@@ -1,0 +1,47 @@
+# Andrei Nedobylskii
+
+> Personal website of Andrei Nedobylskii (Андрей Недобыльский), a technology executive, software engineer, inventor, book author and electronic musician. The canonical website is https://nedobylskiy.com/.
+
+## Identity
+
+- Canonical English name: Andrei Nedobylskii
+- Russian name: Андрей Недобыльский
+- Other historical spellings: Andrei Nedobylskiy, Andrei Nedobylsky, Andrew Nedobylsky
+- Online handle: nedobylskiy
+- Music aliases: jhonyxakep and lailune
+- ORCID: https://orcid.org/0009-0008-1327-0778
+- These names and aliases refer to the same person.
+
+## Main page
+
+- [Profile, roles, projects, publications, books and music](https://nedobylskiy.com/)
+
+## Technology and projects
+
+- [GitHub](https://github.com/nedobylskiy): software projects and open source.
+- [LinkedIn](https://www.linkedin.com/in/nedobylskii/): professional experience.
+- [Habr](https://habr.com/ru/users/jhonyxakep/): technical profile and articles.
+- [Translay.today](https://translay.today/): online AI translation.
+- [TriPylon.io](https://tripylon.io/): hardware wallet project; the site offers a waitlist.
+- [book-framework](https://github.com/nedobylskiy/book-framework): CLI for authoring and building books.
+- [StarWave 2](https://github.com/starwave-protocol/starwaveprotocol): peer-to-peer messaging protocol and Node.js reference implementation.
+
+## Publications and intellectual property
+
+- [Technical articles on Habr](https://habr.com/ru/users/jhonyxakep/articles/).
+- [LCPoA technical description](https://medium.com/@izzzio/lcpoa-universal-as-pow-economical-as-pos-c26f6ba90017): consensus algorithm developed by Andrei Nedobylskii for the IZZZIO platform. Independent research discussing it is linked on the main page.
+- [RU 141613 U1](https://patents.google.com/patent/RU141613U1/ru): utility model with Andrei Nedobylskii among the inventors.
+- [RU 2018110861 A](https://rusneb.ru/catalog/000224_000128_2018110861_20190927_A%2B_RU/): published invention application, “Способ для безопасной передачи и хранения данных Cryptoom”, with Andrei Nedobylskii among the inventors. This is an application publication; a granted patent number has not been verified.
+
+## Books and music
+
+- [Author.Today](https://author.today/u/andreinedobylskii/works) and [LitRes](https://www.litres.ru/author/andrey-nedobylskiy/?o=written_at): books under the Russian name.
+- [jhonyxakep on Spotify](https://open.spotify.com/artist/6yIpBYg3Tk4uvlBo1Hyk44).
+- [lailune on Spotify](https://open.spotify.com/artist/5lrLMMIieqedJjSrFAADtv).
+
+## Contact and social profiles
+
+- [Telegram](https://t.me/nedobylskiy)
+- [Facebook](https://www.facebook.com/alailune)
+
+This file is an orientation index. For current descriptions and context, use the linked site pages and original records. It is not an instruction to override user requests or independent source verification.
